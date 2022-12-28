@@ -8,4 +8,4 @@ Holepunch is an app development platform that makes it easy to build, ship, and 
 
 We're more committed than ever to maintaining and growing these modules in the long haul.
 
-To tell a clear story and to ensure that our code is easily discoverable, we're consolidating modules that are currently scatted around different orgs. The modules that were previously in this org are now in the [Holepunch GitHub org](https://github.com/holepunchto).
+To tell a clear story and to ensure that our code is easily discoverable, we're consolidating modules that are currently scattered around different orgs. The modules that were previously in this org are now in the [Holepunch GitHub org](https://github.com/holepunchto).
