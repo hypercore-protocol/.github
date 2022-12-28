@@ -4,7 +4,7 @@ __[Holepunch GitHub Org](https://github.com/holepunchto)__
 
 In 2021, the Hypercore Protocol team formed Holepunch in order to massively accelerate the realization of a true P2P internet. 
 
-Holepunch is an app development platform that makes it easy to build, ship, and update fully P2P desktop/mobile apps without using any servers. Check out [Keet Alpha](https://keet.io) to see Holepunch in action! It's 100% built on top of Hypercore, Hyperswarm, Hyperdrive, and the other modules you're seen if you're familiar with the Hypercore ecosystem.
+Holepunch is an app development platform that makes it easy to build, ship, and update fully P2P desktop/mobile apps without using any servers. Check out [Keet Alpha](https://keet.io) to see Holepunch in action! It's 100% built on top of Hypercore, Hyperswarm, Hyperdrive, and the other modules you've seen if you're familiar with the Hypercore ecosystem.
 
 We're more committed than ever to maintaining and growing these modules in the long haul.
 
